@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Order Food And Drink</string>
+    <string name="tab_eat">Makan</string>
+    <string name="tab_drink">Minum</string>
+    <string name="add">Keranjang</string>
+    <string name="buy">Beli</string>
+    <string name="about">Tentang</string>
+    <string name="name">Muhamad Aprizal Hardi</string>
+    <string name="from">Kabupaten Lombok Tengah, Nusa Tenggara Barat</string>
+    <string name="invite">Bergabung sejak 14 Jun 2019</string>
+    <string name="xp">3279 XP</string>
+    <string name="show_profile">Tampilkan profil</string>
+    <string name="open_browser">Profile Akun dicoding</string>
+    <string name="add_menu">Silahkan pilih menu yang akan ditambahkan</string>
+    <string name="save">Simpan</string>
+    <string name="delete">Hapus</string>
+    <string name="cancel">Batal</string>
+    <string name="dialog_delete_missiles">"Apakah Anda yakin ingin menghapus?"</string>
+    <string name="total_to_be_paid">Total yang harus dibayar = Masih mencari referensi</string>
+    <string name="empty_not_saved">Pesanan Anda gagal ditambahkan ke keranjang</string>
+    <string name="share">Bagikan</string>
+    <string name="share_text">Menu %s dengan harga %s</string>
+    <string name="number">0</string>
+    <string name="delete_all">Hapus Semua</string>
+    <string name="total">Total</string>
+    <string name="amount_order">Jumlah Pesanan</string>
+    <string name="edit_order">Silahkan masukkan jumlah pesanan yang Anda inginkan</string>
+</resources>
